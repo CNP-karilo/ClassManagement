@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class CM_UI {
+import javax.swing.*;
+
+public class CM_UI {
+    private JPanel panel1;
 }
